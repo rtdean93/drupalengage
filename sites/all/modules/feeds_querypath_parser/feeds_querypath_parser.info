@@ -1,0 +1,15 @@
+name = Feeds QueryPath Parser
+description = Parse an XML or HTML document using CSS selectors from QueryPath.
+package = Feeds
+files[] = tests/feeds_querypath_parser.test
+dependencies[] = feeds
+dependencies[] = querypath
+files[] = FeedsQueryPathParser.inc
+core = 7.x
+
+; Information added by drupal.org packaging script on 2012-06-22
+version = "7.x-1.0-beta1+5-dev"
+core = "7.x"
+project = "feeds_querypath_parser"
+datestamp = "1340367357"
+

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CCB Groups feature.
+ */
+
+include_once 'ccb_groups.features.inc';
